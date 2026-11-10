@@ -148,15 +148,14 @@ A project concept focused on transforming written ideas and prompts into visual 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SushmithaN05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushmithaN05&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=SushmithaN05E&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
