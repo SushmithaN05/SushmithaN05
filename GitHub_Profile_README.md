@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kushi N
+# 👋 Hi, I'm SUSHMITHA N
 
 ### Computer Science Engineering Student • Software Developer • AI & Web Enthusiast
 
@@ -87,7 +87,6 @@ A safety-focused application designed to support quick emergency response and in
 - 📱 Android application development
 - 🔗 IoT / Bluetooth integration
 
-🔗 **Repository:** [Add SafeVision repository link](REPLACE_WITH_SAFE_VISION_REPO_URL)
 
 ### 👕 Tessé — Clothing Brand Platform
 **E-commerce platform concept for a premium clothing brand**
@@ -104,7 +103,6 @@ A modern online shopping experience designed for a premium streetwear and luxury
 - 🟢 Node.js and Express backend
 - 🍃 MongoDB database
 
-🔗 **Repository:** [Add Tessé repository link](REPLACE_WITH_TESSE_REPO_URL)
 
 ### 🏠 Securesafe
 **Smart home automation and security platform**
@@ -117,7 +115,6 @@ A connected-home concept focused on home security, automation, and a simple user
 - Web application development
 - Product-focused UI/UX
 
-🔗 **Repository:** [Add Securesafe repository link](REPLACE_WITH_SECURESAFE_REPO_URL)
 
 ### 🎨 Dream to Image & Video Converter
 **AI-powered creative application concept**
@@ -131,7 +128,6 @@ A project concept focused on transforming written ideas and prompts into visual 
 - User-friendly web interface
 - AI-powered creative workflows
 
-🔗 **Repository:** [Add project repository link](REPLACE_WITH_DREAM_PROJECT_REPO_URL)
 
 ---
 
@@ -188,9 +184,9 @@ I'm especially interested in using technology to solve genuine problems and crea
 
 I'm always open to connecting with developers, students, and people who enjoy creating meaningful technology.
 
-- 💼 **LinkedIn:** [Connect with me](REPLACE_WITH_LINKEDIN_URL)
-- 📧 **Email:** [REPLACE_WITH_EMAIL](mailto:REPLACE_WITH_EMAIL)
-- 🐙 **GitHub:** [@REPLACE_WITH_GITHUB_USERNAME](https://github.com/REPLACE_WITH_GITHUB_USERNAME)
+- 💼 **LinkedIn:** www.linkedin.com/in/sushmitha-n-10a2b5c
+- 📧 **Email:** sushmithan1022005@gmail.com
+- 🐙 **GitHub:** https://github.com/SushmithaN05
 
 <div align="center">
 
